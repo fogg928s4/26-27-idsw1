@@ -2,7 +2,7 @@
 
 ## Esquema
 
-![Esquema del concepto de empatia](https://uml.planttext.com/plantuml/png/ZP7FRi8m38VlbVeELay32JIk72RG_aWx3OqdS1DhyfR4bPDM4zFUVIdGCQ27tP8uty_vd5LCgAdrhYpY1uS65JqOXp6kKrAksqJFHiAMTmItPL4M-nfiIAC4XA-o09X145yh7TVSaTkoRp0nRbGyMPQo-3x1hnZVv866EsCX3KLP9qLZMC8PV2_1jYRXInr9EwmT3RobQ9IR0z4VKDn8vCGTNYOa-aoo5SFe1Zfn8ty4daGzEhPepzZ73bsBVOlhzpTjIFX-533PEs_rLtsOMBMeO3Q3QbfTpM6P5NnBCNl3NLbSbdjosgEB-JpJ8uDOGYIWZYs5h0OK-fZHrgCUIo3FYU3c66b59tt2_tabmtKEE9IjJ0uF6BtTn-njgiiVsMievV7lJX8hohhU_G00)
+![Esquema del concepto de empatia](./img/empatia-diagrama.png)
 
 
 ## Glosario de Términos

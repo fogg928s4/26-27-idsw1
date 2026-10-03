@@ -2,7 +2,7 @@
 
 ## Esquema
 
-![Esquema ](https://uml.planttext.com/plantuml/png/TPB1QiCm38RlWRo3oR5GsAuxZBRh1eD12dq2nLQBDiSAiWrRnzvzThoixTgTB4k_Fdx9NlW04c9lwyg_aHj0e5VQWlVB48Iw6F1PizlI0TLDNTNLM5DRxZi1zLbNIiqLkO3Eam7JUXqb1wK0Wb0YHu4C7bOi1klgwqXwYfYwr_WI3vUuSZUKJ3fDiBHjzug1IphGm8yzUM9tHYoQTW3D4t77qlyOsGkOiNZair3oa39_GDiueEn8KxAt4Vv0dIKJKxDbMO772yZ6Wfiyudk80kTOiX73x_BGQx2mnj5ZyP3JW_30akyFx09B9ewGquKrjusQprKpQwONkSkDoMdYtzVLwIgkQVVeK4RbFxDUQnBKrE7OL59PDCkgT4x39H_iSLJLrGATIL_i6m00)
+![Esquema ](./img/sombra-diagrama.png)
 
 
 ## Glosario de Términos
