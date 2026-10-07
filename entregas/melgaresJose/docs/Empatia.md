@@ -2,7 +2,7 @@
 
 ## Esquema
 
-![Esquema del concepto de empatia](./img/empatia-diagrama.png)
+![Esquema del concepto de empatia](../img/empatia-diagrama.png)
 
 
 ## Glosario de Términos

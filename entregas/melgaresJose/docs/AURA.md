@@ -2,7 +2,7 @@
 
 ## Esquema
 
-![Esquema ](./img/aura-diagrama.png)
+![Esquema ](../img/aura-diagrama.png)
 
 
 ## Glosario de Términos (en lenguaje de viejos como yo)
@@ -11,6 +11,8 @@
 - **Looksmaxx**: En vez de hazaña. Es una acción, rutina o táctica (como el mewing)llevada al extremo. Es la herramienta principal para farmear.
 - **MomentoSigma**: Instante cumbre de demostración de frialdad, aislamiento voluntario o dominio absoluto (el pico de la hazaña) que altera radicalmente el nivel de aura.
 - **Followers**: Testigos presenciales o digitales (espectadores, simps, comunidad) que presencian la acción, validan la actitud y sienten el impacto del momento
+
+Los terminos anteriores han sido adaptados al *lenguaje del cliente*. He usado como referencia a mi hermana menor que sabe más de esto.
 
 ## Supuestos Adoptados
 

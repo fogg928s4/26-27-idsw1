@@ -2,7 +2,7 @@
 
 ## Esquema
 
-![Esquema ](./img/sombra-diagrama.png)
+![Esquema ](../img/sombra-diagrama.png)
 
 
 ## Glosario de Términos
