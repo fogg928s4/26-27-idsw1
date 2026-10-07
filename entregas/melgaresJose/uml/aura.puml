@@ -1,29 +1,25 @@
 @startuml
 
-class Sujeto {
-
+class Alfa {
 }
 
 class Aura {
+}
+
+class Looksmaxx {
+}
+
+class Followers {
+}
+
+class MomentoSigma {
 
 }
 
-class Hazana {
-
-}
-
-class Audiencia {
-
-}
-
-class EventoDeAura {
-
-}
-
-Sujeto -- Aura : posee >
-Sujeto  -- Hazana : ejecuta >
-Hazana  -- EventoDeAura : genera >
-Audiencia  -- EventoDeAura : juzga y emite >
-EventoDeAura --  Aura : modifica >
+Alfa -- Aura : posee >
+Alfa  -- Looksmaxx : farmea >
+Looksmaxx  -- MomentoSigma : causa >
+Followers  -- MomentoSigma : siente >
+MomentoSigma --  Aura : sube/baja >
 
 @enduml
