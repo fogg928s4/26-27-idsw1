@@ -4,7 +4,7 @@ class Sombra {
 
 }
 
-class FuenteDeLuz {
+class ObjetoLuminoso {
 
 }
 
@@ -12,17 +12,12 @@ class ObjetoOpaco {
 
 }
 
-class SuperficieDeProyeccion {
+class Proyeccion {
 
 }
 
-class Silueta {
-
-}
-
-FuenteDeLuz  -- Sombra : proyecta >
-ObjetoOpaco  -- Sombra : genera >
-SuperficieDeProyeccion  -- Sombra : recibe >
-Sombra  -- Silueta : posee >
+ObjetoLuminoso  -- ObjetoOpaco : incide luz en  >
+ObjetoOpaco -- Sombra : genera >
+Superficie  -- Sombra : se muestra sobre <
 
 @enduml

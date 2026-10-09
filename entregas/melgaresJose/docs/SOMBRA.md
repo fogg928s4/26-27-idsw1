@@ -15,14 +15,12 @@
 
 ## Supuestos Adoptados
 
-Independencia de la Sombra por Fuente de Luz:
+> Un Objeto Luminoso (Fuente de Luz) es necesario para generar una Sombra. Al obstruir la trayectoria de la luz, el Objeto Opaco crea una Sombra.
 
-- Justificación: Si hay tres luces apuntando a una persona, se perciben tres sombras distintas con diferentes ángulos e intensidades. Por eso, cada Sombra surge de la combinación exacta de una sola fuente, un solo objeto y una sola superficie.
+Un ejemplo de esto es el Sol (Objeto Luminoso) que proyecta sobre la Tierra (Objeto Opaco) y crea una sombra en ella (la noche). La superficie de proyección también puede el mismo objeto ópaco.
 
-Abstracción de la Silueta como entidad compositiva:
+> Autosombra
 
-- Justificación: La forma de la sombra no es idéntica a la forma del objeto; depende de la perspectiva, la inclinación de la superficie y la distancia de la luz. Separar la Silueta de la Sombra permite modelar la deformación óptica de manera independiente.
+El concepto anterior introduce la "autosombra" a la consideración del modelo. Cuando la Tierra bloquea al Sol, genera un cono de oscuridad en el espacio (Proyeccion). Ese cono existe aunque no haya una pared atrás. La Sombra solo nace cuando esa proyección choca contra una Superficie. 
 
-Exclusión de penumbras o sombras secundarias como entidades separadas:
-
-- Justificación: Para mantener el modelo acotado a 5 entidades, los matices entre "umbra" y "penumbra" se modelan como atributos de calidad (nitidezBorde e intensidadOscuridad) dentro de la entidad Sombra.
+El modelo del dominio aun se aplica a las sombras tradicionales como una taza sobre una mesa. Inclusive propone abarcar aún más en el concepto de sombra: *No es solo la proyección sobre la superficie, sino todo el espacio oscurecido por el objeto ópaco.*
